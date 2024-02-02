@@ -9,6 +9,7 @@
     height: 20.5em;
     width: 14em ;
     padding: 36px 14px;
+    transition: transfrom 0.2s;
     background-color: rgba(181, 204, 126, 0.466);
   }
   .card:hover {
