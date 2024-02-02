@@ -14,7 +14,7 @@ export const ocArray = [
     linkedinId: "https://www.linkedin.com/in/id/",
     emailId: "mailto:emailid@gmail.com",
     post: "Overall Co-ordinator",
-  }
+  },
 ];
 export const cArray = [
   {
@@ -32,26 +32,26 @@ export const cArray = [
     emailId: "#",
   },
   {
-    img:profileimg,
-    name:"Advaith Kannan",
-    post:"Marketing and Fundraising",
-    linkedinId:"#",
-    emailId:"#"
+    img: profileimg,
+    name: "Advaith Kannan",
+    post: "Marketing and Fundraising",
+    linkedinId: "#",
+    emailId: "#",
   },
   {
-    img:profileimg,
-    name:"Deepak",
-    post:"Social Media",
-    linkedinId:"#",
-    emailId:"#"
+    img: profileimg,
+    name: "Deepak",
+    post: "Social Media",
+    linkedinId: "#",
+    emailId: "#",
   },
   {
-    img:profileimg,
-    name:"Abhishek Kumar",
-    post:"Events",
-    linkedinId:"#",
-    emailId:"#"
-  }
+    img: profileimg,
+    name: "Abhishek Kumar",
+    post: "Events",
+    linkedinId: "#",
+    emailId: "#",
+  },
 ];
 export const secyArray = [
   {
@@ -235,5 +235,5 @@ export const secyArray = [
     post: "Events",
     linkedinId: "#",
     emailId: "#",
-  }
+  },
 ];

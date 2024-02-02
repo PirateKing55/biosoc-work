@@ -54,8 +54,7 @@ export default function OurTeam() {
                   linkedinId={data.linkedinId}
                   emailId={data.emailId}
                 />
-                </>)
-                
+                </>)    
               })
             }
 
