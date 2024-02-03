@@ -1,0 +1,53 @@
+/* Profile Component CSS Part */
+.card {
+    border: 2px #4d954c solid;
+    border-radius: 4px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    height: 20.5em;
+    width: 14em ;
+    padding: 36px 14px;
+    transition: transfrom 0.2s;
+    background-color: rgba(181, 204, 126, 0.466);
+  }
+  .card:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+  }
+  .card h3 {
+    color: rgb(50, 50, 50);
+    margin-bottom: 3px;
+  }
+  .card p {
+    color: rgb(83, 83, 83);
+    margin: 5px 0px;
+  }
+  .team-connect {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .card .pimg img {
+    border: 2px solid #015fb1;
+    border-radius: 12em;
+    height: 12em;
+    width: 12em;
+  }
+  .linkedin img {
+    width: 2.5em;
+  }
+  .mail img {
+    width: 2.38em;
+  }
+  .linkedin,
+  .mail {
+    margin: 2px;
+    transition: transform 0.2s;
+  }
+  .linkedin:hover,
+  .mail:hover {
+    transform: scale(1.1);
+  }
+  
